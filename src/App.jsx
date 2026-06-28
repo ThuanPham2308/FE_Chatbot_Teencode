@@ -259,7 +259,7 @@ function App() {
               </svg>
             </div>
             <div className="welcome-badge"><span className="dot" />Gen Z Dictionary — no cap ✨</div>
-            <h3>Gặp từ lóng nào "não tàn" không hiểu?<br />Hãy hỏi hệ thống ngay! 💜</h3>
+            <h3>Gặp từ lóng nào "đứng hình" không hiểu?<br />Hãy hỏi hệ thống ngay! 💜</h3>
             <p>Từ <strong>aura</strong>, <strong>delulu</strong>, <strong>gato</strong> đến <strong>bruh</strong> hay <strong>slay</strong> —<br />hệ thống giải thích chill, dễ hiểu, chuẩn xác.</p>
             <div className="suggestion-grid">
               {SUGGESTIONS.map(s => (
